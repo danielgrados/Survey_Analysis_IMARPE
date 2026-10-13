@@ -1,0 +1,7 @@
+__pycache__/
+*.egg-info/
+build/
+dist/
+.ipynb_checkpoints/
+figuras/
+salida_anchoveta/
